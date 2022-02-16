@@ -1,0 +1,9 @@
+python3 -m venv .venv; source .venv/bin/activate
+if command -v pyenv 1>/dev/null 2>&1; then
+  eval "$(pyenv init -)"
+fi
+
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+export PATH="/usr/local/sbin:$PATH"
