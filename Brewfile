@@ -71,7 +71,6 @@ cask 'webpquicklook' # Webp quick view
 
 ## browsers
 cask 'brave-browser'
-cask 'google-chrome'
 cask 'firefox'
 cask 'firefox-developer-edition'
 
