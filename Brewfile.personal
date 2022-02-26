@@ -3,7 +3,6 @@ brew 'youtube-dl' # Download Youtube videos
 brew 'ffmpeg' # FF MPEG for video
 brew 'ffmpeg2theora' # FF MPEG for video
 brew 'ffmpegthumbnailer' # FF MPEG for video
-brew 'gh'
 brew 'transmission-cli' # Transmission bittorrent client.
 brew 'imagemagick'
 brew 'theora'
