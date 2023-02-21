@@ -77,14 +77,13 @@ cask 'firefox-developer-edition'
 
 ## General Utilities
 cask "miro"
-cask '1password'
 cask 'cheatsheet' # Cheatsheet manager
 cask 'appcleaner' # AppCleaner thoroughly uninstalls unwanted apps.
 cask 'authy' # OTP/multi-factor authentication.(recommended)
 
 ## Code Editing
-cask 'visual-studio-code' # Open source Code Editor
-cask 'phpstorm' # Jetbraibs PHP IDE
+# cask 'visual-studio-code' # Open source Code Editor
+# cask 'phpstorm' # Jetbraibs PHP IDE
 
 ## Development Utilities
 cask 'docker' # docker desktop
@@ -100,4 +99,5 @@ cask 'microsoft-remote-desktop' # Remote Desktop.
 ## Communication
 cask 'slack' # Slack chat
 cask 'microsoft-outlook' # Microsoft email client
+cask 'microsoft-teams' # microsoft-teams
 cask 'zoom' # online meetings
